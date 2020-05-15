@@ -1,4 +1,4 @@
 # OrgRepo
 Organization Repo
 
-This is for DLP Testing with MVC. 
+This Org Repo is for Testing with McAfee MVISION Cloud.
